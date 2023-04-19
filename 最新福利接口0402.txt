@@ -41,7 +41,7 @@
 {"key":"*狼友资源","name":"*🔞狼友资源","type":1,"api":"https://www.langyouzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*国色资源","name":"*🔞国色资源","type":1,"api":"https://api.guosezy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*金莲资源","name":"*🔞金莲资源","type":1,"api":"https://111kkkkk.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"*皇冠资源","name":"*🔞皇冠资源","type":1,"api":"https://hghhh.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"*皇冠资源","name":"*🔞皇冠资源","type":1,"api":"https://hghhh.com/api.php/provide/vod/","searchable":0,"quickSearch":0}
 {"key":"*热巴资源","name":"*🔞热巴资源","type":1,"api":"http://reba.aishunxs.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"csp_biubiu_四虎影院","name":"*🔞四虎影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/42847/%E5%9B%9B%E8%99%8E%E5%BD%B1%E9%99%A2.json?sign=zwsM2CHQiQTJX443ZPGi1O_y6dKZEx1uvM27wRSRg_8%3D%3A0"},
 {"key": "*AIvin","name": "*🔞AIvin","type": 0,"api": "http://lbapiby.com/api.php/provide/vod/at/xml"},
@@ -51,7 +51,7 @@
 { "key": "(18+)JAV名优", "name": "*🔞JAV名优", "type": 0, "api": "http://mygzycj.com/api.php?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 0 },	
 { "key": "(18+)秀色资源", "name": "🔞秀色资源", "type": 0, "api": "https://api.xiuseapi.com/api.php/provide/vod/at/xml", "playUrl": "https://player.leyuzy.net/?url=", "searchable": 1, "quickSearch": 1, "filterable": 0 },	
 {"key": "精工厂","name": "*🔞精工厂","type": 0,"api": "https://jgczyapi.com/home/cjapi/kld2/mc/vod/xml","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://share.nite07.com/api/v3/file/source/18178/18.jar?sign=4snwZEDuzr88tmVvCLDre0Jjbt5hOKh7zrtE37bQV30%3D%3A0"},
-{"key": "91md","name": "*🔞九一线","type": 1,"api": "https://91md.me/api.php/provide/vod/from/mdm3u8/","searchable":0,"quickSearch":0,"filterable": 0,"jar":"https://share.nite07.com/api/v3/file/source/18178/18.jar?sign=4snwZEDuzr88tmVvCLDre0Jjbt5hOKh7zrtE37bQV30%3D%3A0"},
+{"key": "91md","name": "*🔞九一线","type": 1,"api": "https://91md.me/api.php/provide/vod/from/mdm3u8/","searchable":0,"quickSearch":0,"filterable": 0,"jar":"https://share.nite07.com/api/v3/file/source/18178/18.jar?sign=4snwZEDuzr88tmVvCLDre0Jjbt5hOKh7zrtE37bQV30%3D%3A0"}
 {"key": "美少女","name": "*🔞美少女","type": 0,"api": "https://www.msnii.com/api/xml.php","searchable":0,"quickSearch":0,"filterable": 1,"jar":"https://share.nite07.com/api/v3/file/source/18178/18.jar?sign=4snwZEDuzr88tmVvCLDre0Jjbt5hOKh7zrtE37bQV30%3D%3A0"},
 {"key": "点点","name": "*🔞点点点","type": 0,"api": "https://xx55zyapi.com/home/cjapi/ascf/mc/vod/xml","searchable":0,"quickSearch":0,"filterable": 0,"jar":"https://share.nite07.com/api/v3/file/source/18178/18.jar?sign=4snwZEDuzr88tmVvCLDre0Jjbt5hOKh7zrtE37bQV30%3D%3A0"},
 {"key": "屌丝","name": "*🔞屌丝影","type": 0,"api": "https://sdszyapi.com/home/cjapi/asbb/sea/vod/xml","searchable":0,"quickSearch":0,"filterable": 0,"jar":"https://share.nite07.com/api/v3/file/source/18178/18.jar?sign=4snwZEDuzr88tmVvCLDre0Jjbt5hOKh7zrtE37bQV30%3D%3A0"},
